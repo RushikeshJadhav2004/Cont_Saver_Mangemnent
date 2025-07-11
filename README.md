@@ -19,12 +19,15 @@
 ## 🖼️ Preview
 
 | 💡 Add Contact Modal |
-|----------------------|----------------|
-| ![Modal] <img width="1302" height="679" alt="Screenshot 2025-07-12 032745" src="https://github.com/user-attachments/assets/46f41bad-83ba-4039-b627-b9a12909624d" /> | 
+
+| <img width="1302" height="679" alt="Screenshot 2025-07-12 032745" src="https://github.com/user-attachments/assets/46f41bad-83ba-4039-b627-b9a12909624d" /> | 
+
+<br>
+<br>
 
 | 📋 Contact List |
-|----------------------|----------------|
-| ![List] <img width="1305" height="692" alt="Screenshot 2025-07-12 010312" src="https://github.com/user-attachments/assets/4605d761-2fcf-4e12-8e2b-bff9b107d953" /> |
+
+| <img width="1305" height="692" alt="Screenshot 2025-07-12 010312" src="https://github.com/user-attachments/assets/4605d761-2fcf-4e12-8e2b-bff9b107d953" /> |
 
 
 ---
