@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/React-Frontend-blue" />
   <img src="https://img.shields.io/badge/Express-Backend-yellow" />
   <img src="https://img.shields.io/badge/MongoDB-Database-brightgreen" />
-  <img src="https://img.shields.io/badge/Deployed-Vercel_&_Render-black" />
+  
 </p>
 
 ---
